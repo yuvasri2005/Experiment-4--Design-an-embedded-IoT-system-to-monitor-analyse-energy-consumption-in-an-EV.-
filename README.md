@@ -2,6 +2,7 @@
 
 ## AIM
 To design an embedded IoT system to monitor and analyze energy consumption in an electric vehicle (EV). The system tracks voltage, current, power, and energy consumption and provides insights for efficiency optimization.
+
  
 ## THEORY
 1. Energy Consumption in EVs
